@@ -1,0 +1,16 @@
+C:\Users\rumey\OneDrive\Masaüstü\arman_hoca_dersleri\capım_tablosu\capım_tablosu\bin\Debug\net6.0-windows\capım_tablosu.exe
+C:\Users\rumey\OneDrive\Masaüstü\arman_hoca_dersleri\capım_tablosu\capım_tablosu\bin\Debug\net6.0-windows\capım_tablosu.deps.json
+C:\Users\rumey\OneDrive\Masaüstü\arman_hoca_dersleri\capım_tablosu\capım_tablosu\bin\Debug\net6.0-windows\capım_tablosu.runtimeconfig.json
+C:\Users\rumey\OneDrive\Masaüstü\arman_hoca_dersleri\capım_tablosu\capım_tablosu\bin\Debug\net6.0-windows\capım_tablosu.dll
+C:\Users\rumey\OneDrive\Masaüstü\arman_hoca_dersleri\capım_tablosu\capım_tablosu\bin\Debug\net6.0-windows\capım_tablosu.pdb
+C:\Users\rumey\OneDrive\Masaüstü\arman_hoca_dersleri\capım_tablosu\capım_tablosu\obj\Debug\net6.0-windows\capım_tablosu.Form1.resources
+C:\Users\rumey\OneDrive\Masaüstü\arman_hoca_dersleri\capım_tablosu\capım_tablosu\obj\Debug\net6.0-windows\capım_tablosu.csproj.GenerateResource.cache
+C:\Users\rumey\OneDrive\Masaüstü\arman_hoca_dersleri\capım_tablosu\capım_tablosu\obj\Debug\net6.0-windows\capım_tablosu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumey\OneDrive\Masaüstü\arman_hoca_dersleri\capım_tablosu\capım_tablosu\obj\Debug\net6.0-windows\capım_tablosu.AssemblyInfoInputs.cache
+C:\Users\rumey\OneDrive\Masaüstü\arman_hoca_dersleri\capım_tablosu\capım_tablosu\obj\Debug\net6.0-windows\capım_tablosu.AssemblyInfo.cs
+C:\Users\rumey\OneDrive\Masaüstü\arman_hoca_dersleri\capım_tablosu\capım_tablosu\obj\Debug\net6.0-windows\capım_tablosu.csproj.CoreCompileInputs.cache
+C:\Users\rumey\OneDrive\Masaüstü\arman_hoca_dersleri\capım_tablosu\capım_tablosu\obj\Debug\net6.0-windows\capım_tablosu.dll
+C:\Users\rumey\OneDrive\Masaüstü\arman_hoca_dersleri\capım_tablosu\capım_tablosu\obj\Debug\net6.0-windows\refint\capım_tablosu.dll
+C:\Users\rumey\OneDrive\Masaüstü\arman_hoca_dersleri\capım_tablosu\capım_tablosu\obj\Debug\net6.0-windows\capım_tablosu.pdb
+C:\Users\rumey\OneDrive\Masaüstü\arman_hoca_dersleri\capım_tablosu\capım_tablosu\obj\Debug\net6.0-windows\capım_tablosu.genruntimeconfig.cache
+C:\Users\rumey\OneDrive\Masaüstü\arman_hoca_dersleri\capım_tablosu\capım_tablosu\obj\Debug\net6.0-windows\ref\capım_tablosu.dll
